@@ -125,3 +125,28 @@
 	<stdio.h>
 	<math.h>
 
+1568394444 source:f:\iangrybird\ibird v2.0-2.9.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<windows.h>
+
+1562602444 f:\iangrybird\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562602445 f:\iangrybird\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562602445 f:\iangrybird\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
